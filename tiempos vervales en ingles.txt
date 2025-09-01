@@ -1,0 +1,395 @@
+<!--=====================================
+=            Presente Simple            =
+======================================-->
+<!--====  to be ser - estar  ====-->
+""" Forma afirmativa """
+yo soy - yo estoy | I am - I'm
+tu eres - tu estas | You are - You're
+el es - el esta | He is - He's
+ella es - ella esta | She is - She's
+ello es - ello esta | It is - It's
+Nosotros somos-estamos | We are - We're
+Vosotros sois-estais | you are - You're
+ellos son-estan | They are - They're
+
+""" Forma negativa """
+yo no soy-estoy | I am not
+tu no eres-estas | you are not - you aren't
+el no es-esta | he is not - he isn't
+ella no es-esta | she is not - she isn't
+ello no es-esta | it is - it isn't
+nosotros no somos-estamos | we are not - we aren't
+vosotros no sois-estais | you are not - you aren't
+ellos no son-estan | they are not - they aren't
+
+""" Forma interrogativa """
+soy-estoy yo? | am I?
+eres-estas tu? | are you?
+es-esta el? | is he?
+es-esta ella? | is she?
+es-esta ello? | is it?
+somos-estamos Nosotros? | are we?
+sois-esatis Vosotros? | are you?
+son-estan ellos? | are they?
+
+<!--====  to have haber  ====-->
+""" Forma afirmativa """
+yo he | I have - I've
+tu has | you have - you've
+el ha | he has - he's
+ella ha | she has - she's
+ello ha | it has - it's
+nosotros habemos | we have - we've
+vosotros habeis | you have - you've
+ellos han | they have - they've
+
+""" Forma negativa """
+yo no he | I have not - I haven't
+tu no has | you have not - you haven't
+el no ha | he has not - he hasn't
+ella no ha | she has not  - she hasn't
+ello no ha | it has not - it hasn't
+nosotros no habemos | we have not - we haven't
+vosotros no habeis | you have not - you haven't
+ellos no han | they have not - they haven't
+
+""" Forma interrogativa """
+he yo? | have I?
+has tu? | have you?
+ha el? | has he?
+ha ella? | has she?
+ha ello? | has it?
+habemos nosotros? | have we?
+habeis vosotros? | have you?
+han ellos? | have they?
+
+<!--====  Resto de vervos  ====-->
+""" Forma afirmativa """
+yo como | I eat
+tu comes | you eat
+el come | he eats
+ella come | she eats
+ello come | it eats
+nosotros comemos | we eat
+vosotros comeis | you eat
+ellos comen | they eat
+
+""" Forma negativa """
+yo no ire | I do not go - I don't go
+tu no iras | you do not go - you don't go
+el no ira | he does not go - he doesn't go
+ella no ira | she does not go - she doesn't go
+ello no ira | it does not go - it doesn't go
+nosotros no iremos | we do not go - we don't go
+vosotros no ireis | you do not go - you don't go
+ellos no iran | they do not go - they don't go
+
+""" Forma interrogativa """
+tomare yo? | do I take?
+tomaras tu? | do you take?
+tomara el? | does he take?
+tomara ella? | does she take?
+tomara ello? | does it take?
+tomaremos nodotros? | do we take?
+tomareis vosotros? | do you take?
+tomaran ellos? | do they take?
+
+<!--=====================================
+=            Pasado Simple            =
+======================================-->
+<!--====  to be  ====-->
+""" Forma afirmativa """
+yo era-estaba | I was
+tu eras-estabas | you were
+el era-estaba | he was
+ella era-estaba | she was
+ello era-estaba | it was
+nosotros eramos-estabamos | we were
+vosotros erais-estabais | you were
+ellos eran-estaban | they were
+
+""" Forma negativa """
+yo no era-estaba | I was not - I wasn't
+tu no eras-estabas | you were not - you weren't
+el no era-estaba | he was not - he wasn't
+ella no era-estaba | she was not - she wasn't
+ello no era-estaba | it was not - it wasn't
+nosotros no eramos-estabamos | we ware not - we weren't
+vosotros no erais-estabais | you were not - you weren't
+elllos no eran-estaban | they were not - they weren't
+
+""" Forma interrogativa """
+era-estaba yo? | was I?
+eras-estabas tu? | were you?
+era-estaba el? | was he?
+era-estaba ella? | was she?
+era-estaba ello? | was it?
+eramos-estabamos nosotros? | were we?
+erais-estabais vosotros? | were you?
+eran-estaban ellos? | were they?
+
+<!--====  to have haber ====-->
+""" Forma afirmativa """
+yo habia | I had
+tu habias | you had
+el habia | he had
+ella habia | she had
+ello habia | it had
+nosotros habiamos | we had
+vosotros habeais | you had
+ellos habian | they had
+
+""" Forma negativa """
+yo no habia | I had not - I hadn't
+tu no habias | you  had not - you hadn't
+el no habia | he  had not - he hadn't
+ella no habia | she  had not - she hadn't
+ello no habia | it  had not - it hadn't
+nosotros no habiamos | we  had not - we hadn't
+vosotros no habeais | you  had not - you hadn't
+ellos no habian | they  had not - they hadn't
+
+""" Forma interrogativa """
+habre yo? | had I?
+habras tu? | had you?
+habra el? | had he?
+habra ella? | had she?
+habra ello? | had it?
+habremos nosotros? | had we?
+habreais vosotros? | had you?
+habran ellos? | had they?
+
+<!--====  Resto de vervos  ====-->
+""" Forma afirmativa """
+yo espere | I waited
+tu esperaste | you waited
+el espero | he waited
+ella espero | she waited
+ello espero | it waited
+nosotros esperamos | we waited
+vosotros esperabais | you waited
+ellos esperaban | they waited
+
+""" Forma negativa """
+Se usa el verbo en infinitivo ya did indica que ya es pasado
+yo no esperaba | I did not wait - I didn't wait
+tu no esperate | you did not wait - you didn't wait
+el no espero | he did not wait - he didn't wait
+ella no espero | she did not wait - she didn't wait
+ello no espero | it did not wait - it didn't wait
+nosotros no esperamos | we did not wait - we didn't wait
+vosotros no esperabais | you did not wait - you didn't wait
+ellos no esperaban | they did not wait - they didn't wait
+
+""" Forma interrogativa """
+espere yo? | did I wait?
+esperaste tu? | did you wait?
+espero el? | did he wait?
+espero ella? | did she wait?
+espero ello? | did it wait?
+esperamos nosotros? | did we wait?
+esperabais vosotros? | did you wait?
+esperaban ellos? | did they wait?
+
+<!--======================================================
+=            Presente y Pasado Simple to have tener     =
+=======================================================-->
+""" Forma afirmativa """
+yo tengo | I have | I have got
+tu tienes | you have | you have got
+el tiene | he have | he have got
+ella tiene | she have | she have got
+ello tiene | it have | it have got
+nosotros tenemos | we have | we have got
+vosotros teneis | you have | you have got
+ellos tenian | they have | they have got
+
+""" Forma negativa """
+yo no tengo | I don't have | I haven't got
+tu no tienes | you don't have | you haven't got
+el no tiene | he does't have | he haven't got
+ella no tiene | she does't have | she haven't got
+ello no tiene | it does't have | it haven't got
+nosotros no tenemos | we don't have | we haven't got
+vosotros no teneis | you don't have | you haven't got
+ellos no tienen | they don't have | they haven't got
+
+""" Forma interrogativa """
+tengo yo? | do I have | have I got
+tienes tu? | do you have | have you got
+tiene el? | does he have | have he got
+tiene ella? | does she have | have she got
+tiene ello? | does it have | have it got
+tenemos nosotros? | do we have | have we got
+teneis vosotros? | do you have | have you got
+tenian ellos? | do they haave | have they got
+
+<!--====  pasado simple to have tener  ====-->
+""" Forma afirmativa """
+Yo tenía | I had | I had got
+Tú tenías | You had | You had got
+Él tenía | He had | He had got
+Ella tenía | She had | She had got
+Ello tenía | It had | It had got
+Nosotros teníamos | We had | We had got
+Vosotros teníais | You had | You had got
+Ellos tenían | They had | They had got
+
+""" Forma negativa """
+yo no tenia | I didn't have | I hadn't got
+tu no tenias | you didn't have | you hadn't got
+el no tenia | he didn't have | he hadn't got
+ella no tenia | she didn't have | she hadn't got
+ello no tenia | It didn't have | It hadn't got
+nosotros no teniamos | we didn't have | we hadn't got
+vosotros no teniais | you didn't have | you hadn't got
+ellos no tenian | they didn't have | they hadn't got
+
+""" Forma interrogativa """
+tenia yo? | did I have? | had I got?
+tenias tu? | did you have? | had you got?
+tenia el? |did he have? | had he got?
+tenia ella? |did she have? | had she got?
+tenia ello? |did it have? | had it got?
+teniamos nosotros? | did we have? | had we got?
+teniais vosotros? did you have? | had you got?
+tenian ellos? did they have? | had they got?
+
+<!--=====================================
+=        Futuro Simple todos los vervos
+======================================-->
+""" Forma afirmativa """
+yo correre | I will run | I'll run
+tu corras | you will run | you'll run
+el correra | he will run | he'll run
+ella correra | she will run | she'll run
+ello correra | it will run | it'll run
+nosotros correremos | we will run | we'll run
+vosotros correreis | you will run | you'll run
+ellos correran | they will run | they'll run
+
+""" Forma negativa """
+yo no correre | I will not run - I won't run
+tu no correras | you will not run - you won't run
+el no correra | he will not run - he won't run
+ella no correra | she will not run - she won't run
+ello no correra | it will not run - it won't run
+nosotros no correremos | we will not run - we won't run
+vosotros no correreis | you will not run - you won't run
+ellos no correran | they will not run - they won't run
+
+""" Forma interrogativa """
+correre yo? | will I run?
+correras tu? | will you run?
+correra el? | will he run?
+correra ella? | will she run?
+correra ello? | will it run?
+correremos nosotros? | will we run?
+correreis vosotros? | will you run?
+correran ellos? | will they run?
+
+<!--=====================================
+=     Condicional Simple Todos los verbos
+======================================-->
+""" Forma afirmativa """
+yo volaria | I would fly - I'd fly
+tu volarias | you would fly - you'd fly
+el volaria | he would fly - he'd fly
+ella volaria | she would fly - she'd fly
+ello volaria | it would fly - it'd fly
+nosotros volariamos | we would fly - we'd fly
+vosotros volariais | you would fly - you'd fly
+ellos volarian | they would fly - they'd fly
+
+""" Forma negativa """
+yo no volaria | I would not fly - I wouldn't fly
+tu no volarias | you would not fly -  you wouldn't fly
+el no volaria | he would not fly - he wouldn't fly
+ella no volaria | she would not fly - she wouldn't fly
+ello no volaria | it would not fly - it wouldn't fly
+nosotros no volariamos | we would not fly - we wouldn't fly
+vosotros no volariais | you would not fly - you wouldn't fly
+ellos no volarian | they would not fly - they wouldn't fly
+
+""" Forma interrogativa """
+volaria yo? | would I fly?
+volarias tu? | would you fly?
+volaria el? | would he fly?
+volaria ella? | would she fly?
+volaria ello? | would it fly?
+volariamos nosotros? | would we fly?
+volariais vosotros? would you fly?
+volarian ellos? | would they fly?
+
+<!--=====================================
+=            Tiempos Continuos
+======================================-->
+*Presente continuo
+	-Forma afirmativa: I'm feeling > yo estoy sintiendo
+	-Forma negativa: I'm not feeling > yo no estoy sintiendo
+	-Forma interrogativa: am I feeling? > estoy sintiendo yo?
+
+*Pasado continuo
+	-Forma afirmativa: I was feeling > yo estaba sintiendo
+	-Forma negativa: I wasn't feeling > yo no estaba sintiendo
+	-Forma interrogativa: was I feeling > estaba sintiendo yo
+
+*Futuro continuo
+	-Forma afirmativa: I will be telling > yo estare diciendo
+	-Forma negativa: I won't be telling > yo no estare diciendo
+	-Forma interrogativa: will I be telling? > estare diciendo yo?
+
+*Condicional continuo
+	-Forma afirmativa: I would be putting > yo estaria poniendo
+	-Forma negativa: I wouldn't be putting > yo no estaria poniendo
+	-Forma interrogativa: would I be putting? > estaria poniendo yo?
+
+Para conseguir el gerundio de un verbo en inglés debemos añadir “ing” a su infinitivo, por ejemplo:
+
+Walk > walking
+Andar > andando
+
+En el caso de que el verbo termine en “e” muda, suprimiremos esa “e”, por ejemplo:
+
+Write > writing
+
+Si el verbo es monosílabo y termina en consonante-vocal-consonante, duplicaremos su última consonante, por ejemplo:
+
+Cut > cutting
+
+<!--=====================================
+=            Tiempos perfectos
+======================================-->
+Los tiempos perfectos en inglés se forman conjugando el verbo “to have” (traducido al español con el significado de “haber”) y utilizando el participio del verbo principal. Por ejemplo
+
+*Presente continuo
+	-Forma afirmativa: I have lost > yo he perdido
+	-Forma negativa: I haven't lost > yo no he perdido
+	-Forma interrogativa: have I lost? > he perdido yo?
+
+*Pasado continuo
+	-Forma afirmativa: I had lost > yo habia perdido
+	-Forma negativa: I hadn't lost > yo no habia perdido
+	-Forma interrogativa: had I lost? > habia perdido yo?
+
+*Futuro continuo
+	-Forma afirmativa: I will have blown > yo habre soplado
+	-Forma negativa: I won't have blown > yo no habre soplado
+	-Forma interrogativa: will I have blown? > habre soplado yo?
+
+*Condicional continuo
+	-Forma afirmativa: I would have broken > yo habria roto
+	-Forma negativa: I wouldn't have broken > yo no habria roto
+	Forma interrogativa: would I have broken? > habria roto yo?
+
+Para formar el participio de un verbo en inglés debemos distinguir si se trata de un verbo regular o irregular.
+
+Si es un verbo regular añadiremos “ed” al infinitivo:
+
+Walk > walked
+Andar > Andado
+
+Si, en cambio, se trata de un verbo irregular deberemos aprender de memoria su forma en participio (la tercera columna de los verbos irregulares), por ejemplo:
+
+Buy > bought
+Comprar > comprado

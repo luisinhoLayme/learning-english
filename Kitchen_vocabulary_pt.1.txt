@@ -1,0 +1,27 @@
+spoon = cuchara
+fork = tenedor
+knife = cuchillo
+ladle = cucharon
+cup = taza !little, Usually with plate
+mug = taza !big, Usually without plate, for drink coffe and other
+glass = baso de vidrio
+kettle = hervidor / tetera
+bowl = recipiente
+plate = plato
+tray = bandeja
+pot = olla
+frying pan = sarten
+saucepan = cacerola
+peeler = pelador
+tongs = tenaza / pinzas
+spatula = espatula
+
+teapot = tetera
+mortar = mortero
+crepe pan = sarten para crepes
+butter dish = matequera / mantequilla
+Scissors = tijera
+Apron = delantal - mandil
+mixing bowl = recipiente o cuenco para mezclar
+colander = colador
+

@@ -1,0 +1,309 @@
+- Palabras Importantes en Ingles. 300 palbras
+the -> el/la/los/las
+and -> y
+to -> a
+of -> de
+a -> un/una
+in -> en
+that -> ese/esa
+for -> para/por
+I -> yo
+you -> tú/ustedes
+he -> él
+she -> ella
+it -> eso
+we -> nosotr@s
+they -> ell@s
+them -> ell@s
+I am -> yo soy/estoy
+this -> esta
+was -> era/estaba
+have -> tener
+or -> o
+at -> en/a
+not -> no
+your -> tu
+from -> de/desde
+be -> ser
+by -> por
+will -> será
+can -> poder
+but -> pero
+as -> como
+are -> están/son
+on -> en
+all -> todo
+has -> tiene
+if -> si
+their -> su (de ellos)
+one -> uno
+do -> hacer 
+doing -> haciendo
+my -> mi
+his -> su (masculino)
+so -> asi que/entonces
+there -> ahi
+about -> acerca de/sobre
+which -> cual
+when -> cuando
+what? -> qué
+out -> fuera
+up -> arriba
+our -> nuestro
+who -> quien
+also -> además
+had -> tenia
+some -> alguno
+any -> ninguno
+would -> haria
+were -> estuvieron/fueron/eran/estaban
+like -> gustar
+been -> estaba/sido
+just -> sólo
+her -> ella
+new -> nuev@
+other -> otro
+an -> un
+with -> con
+people -> gente
+these -> estas
+no -> no
+get -> obtener
+how? -> cómo
+me -> yo
+into -> dentro
+than -> que
+only -> solamente
+its -> sus
+most -> más
+may -> podría
+time -> tiempo
+many -> much@s
+make -> hacer
+the -> entonces
+well -> bueno/bien
+first -> primero
+very -> muy
+over -> terminado
+now -> ahora
+could -> podría
+should -> debería
+even -> incluso
+becase -> porque
+us -> nosotros
+said -> dijo
+good -> bueno/bien
+way -> camino/manera
+two -> dos
+more -> más
+work -> trabajo
+use -> usar
+after -> después
+through -> a través de
+see -> ver
+know -> saber/conocer
+did -> hizo/hacía
+much -> mucho
+where -> dónde
+years -> años
+need -> necesitar
+him -> él
+back -> espalda/atrás
+such -> tal/tanto
+those -> esos/aquellos
+being -> siendo
+day -> día
+take -> tomar
+while -> mientras
+here -> aquí/acá
+before -> antes de
+does -> hace
+great -> genial
+around -> alrededor
+help -> ayuda
+meybe -> tal vez/quizás
+I want -> quiero
+he/she want -> él/ella quiere
+really -> de verdad
+think -> pensar
+best -> mejor
+life -> vida
+each -> cada
+made -> hecho
+right -> correcto
+world -> mundo
+business -> negocio
+home -> casa/hogar
+own -> propio/poseer
+down -> abajo
+still -> todavía
+used -> usado
+find -> encontrar
+go -> ir
+going -> yendo (voy)
+every -> cada
+both -> ambos
+last -> último
+off -> apagado
+too -> también
+same -> mismo
+information -> información
+little -> pequeño/poco
+another -> otro
+look -> mirar
+few -> pocos
+long -> largo
+part -> parte
+since -> ya que/desde
+things -> cosas
+place -> sitio
+eat -> comer
+between -> entre
+during -> durante
+different -> diferente
+must -> deber
+come -> venir
+come here -> ven acá
+using -> utilizando
+however -> sin enbargo
+without -> sin
+high -> alto
+why? -> por qué
+something -> alguna cosa
+me too -> yo también
+system -> sistema
+better -> mejor
+three -> tres
+never -> nunca
+always -> siempre
+love -> amor
+say -> decir
+might -> podría
+next -> próximo
+company -> empresa
+not yet -> todavía no
+number -> número
+again -> de nuevo
+free -> gratis
+a lot -> mucho
+under -> debajo
+family -> familia
+found -> encontró
+within -> dentro
+give -> dar
+set -> conjunto/fijar
+school -> colegio/escuela
+important -> importante
+water -> agua
+able to -> capaz de
+keep -> mantener
+got -> tiene
+sure -> seguro/claro
+end -> fin
+money -> dinero
+leter -> más tarde
+small -> pequeño
+put -> poner
+experience -> experiencia
+having -> teniendo
+once -> una vez
+available -> disponible
+health -> salud
+support -> apoyo
+often -> a menudo
+including -> incluso/incluyendo
+days -> días
+sway -> lejos
+old -> viejo
+area -> zona
+feel -> sentir
+read -> leer
+show -> espectáculo
+big -> grande
+against -> en contra
+thing -> cosa
+order -> orden
+probably -> probablemente
+though -> aunque
+city -> ciudad
+group -> grupo
+services -> servicios
+site -> sito
+making -> haciendo
+course -> curso
+point -> punto
+children -> niños
+times -> veces
+team -> equipo
+game -> juego
+along -> a lo largo
+let -> dejar
+house -> casa
+today -> hoy
+yesterday -> ayer
+tomorrow -> mañana
+working -> trabajando
+research -> investigación
+start -> comienso
+real -> real
+body -> cuerpo
+care -> cuidado
+top -> parte superior
+looking -> mirando
+several -> varios
+man -> hombre
+less -> menos
+process -> proceso
+become -> volverse
+actually -> realmente
+local -> local
+together -> juntos
+person -> persona
+change -> cambio
+book -> libro
+enough -> suficiente
+getting -> consiguiendo
+week -> semana
+power -> poder
+until -> hasta
+market -> mercado
+fact -> hecho/dato
+god -> dios
+food -> comida
+study -> estudiar
+students -> estudiantes
+woman -> mujer
+full -> completo/lleno
+name -> nombre
+second -> segundo
+data -> datos
+goverment -> gobierno
+says -> dice
+others -> otros
+ever -> siempre
+yet -> todavia
+case -> caso
+development -> desarrollo
+left -> izquierda/debajo
+far -> lejos
+large -> grande
+colled -> llamado
+already -> ya 
+came -> vino/venía
+social -> social
+open -> abierto
+possible -> posible
+side -> lado
+play -> jugar
+needs -> nececidades
+try -> tratar
+done -> hecho
+
+Al fin termine ahora a aprender todas
+por que
+tu eres suficiente 
+tu vas a ser Desarrollador Web 
+cueste lo que cueste
+tambien vas a hablar Ingles.
+
+...

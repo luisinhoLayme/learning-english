@@ -1,0 +1,8 @@
+happen = suceder
+amount = cantidad
+
+Anna Shcherbakova xd
+Alexandra Trusova xd
+
+cute = Q => pronuciaton
+

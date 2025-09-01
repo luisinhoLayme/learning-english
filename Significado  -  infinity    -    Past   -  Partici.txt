@@ -1,0 +1,93 @@
+Significado  -  infinity    -    Past   -  Participe
+
+<!--===================================
+=            Primera tabla            =
+====================================-->
+ser/estar: be was/were been
+traer: bring brought brought
+comprar: buy bought bought
+venir: come came come
+cortar: cut cut cut
+hacer: do did done
+beber: drink drank drunk
+conducir: drive drove driven
+comer: eat ate eaten
+volar: fly flew flown
+caer: fall fell fallen
+sentir: feel felt felt
+conseguir/obtener: get got got/gotten
+dar: give gave given
+ir: go went gone
+crecer: grow grew grown
+tener: have had had
+oir: hear heard heard
+guardar: keep kept kept
+perder: lose lost lost
+hacer: make made made
+conocer: meet met met
+poner: put put put
+abandonar: quit quit quit
+leer: read read read
+montar: ride rode ridden
+correr: run ran run
+ver: see saw seen
+vender: sell sold sold
+colocar/fijar: set set set
+sentarse: sit sat sat
+dormir: sleep slept slept
+hablar: speak spoke spoken
+gastar: spend spent spent
+tomar: take took taken
+enseñar: teach tauhgt taught
+decir: tell told told
+pensar: think thought thought
+vestir/llevar puesto: wear wore worn
+escribir: write wrote written
+
+<!--===================================
+=            Segunda tabla            =
+====================================-->
+levantarse/surgir: arise arose arisen
+despertarse: wake woke woken
+soportar/llevar: bear bore borne
+golpear: beat beat beaten
+convertirse/llegar a ser: become became become
+empesar: begin began begun
+doblar: bend bent bent
+apostar: bet bet bet
+pujar: bid bid bidden
+morder: bite bit bitten
+sangrar: bleed bled bled
+soplar: blow blew blown
+romper: break broke broken
+construir: build built built
+quemar: burn burnt burnt
+atrapar/cojer: catch caught caught
+escojer: choose chose chosen
+costar: cost cost cost
+negociar/repaartir: deal dealt dealt
+cavar: dig dug dug
+dibujar: draw drew drawn
+soniar: dream dreamt dreamt
+gotear/dejar caer: drop dropped dropt
+alimentar: feed fed fed
+luchar: fight fought fought
+encontrar: find found found
+prohibir: forbid forbade forbidden
+pronostico: forecast forecast forecast
+olvidar: forget forgot forgotten
+perdonar: forgive forgave forgiven
+congelar: freeze froze frozen
+colgar: hang hung hung
+esconder: hide hid hidden
+pegar/golpear: hit hit hit
+sostener: hold held held
+daniar/herir: hurt hurt hurt
+saber: know knew known
+guiar/encabezar: lead led led
+inclinarse: lean leant leant
+aprender: learn learnt learnt
+dejar: leave left left
+prestar: lend lent lent
+permitir: let let let
+acostar/yacer: lie lay lain
